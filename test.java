@@ -2,9 +2,9 @@
 public class Test {
     public static void main(String[] args) {
 
-        String name = "Varsha";
+        String name = "Vrushabh";
         int age = 19;
-        double score = 89.5;
+        double score = 90.5;
 
         System.out.printf("Name: %s%n", name);
         System.out.printf("Age: %d years%n", age);
